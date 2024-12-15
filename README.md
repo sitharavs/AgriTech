@@ -1,6 +1,5 @@
 
 🌾 Agriculture Insights Dashboard:
-Welcome to the Agriculture Insights Dashboard project! 
 
 🚜 This project explores how technology adoption and market insights can empower farmers, improve productivity, and boost profitability.
 
